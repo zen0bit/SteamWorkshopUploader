@@ -9,9 +9,9 @@ Thanks goes to [rlabrecque](https://github.com/rlabrecque), none of this would w
 
 #### Build 10
 
-[Windows](https://github.com/zen0bit/SteamWorkshopUploader/releases/download/Build10/SteamWorkshopUploader_10_win.zip)
+[Windows](https://github.com/nihilocrat/SteamWorkshopUploader/releases/download/Build10/SteamWorkshopUploader_10_win.zip)
 
-[Mac](https://github.com/zen0bit/SteamWorkshopUploader/releases/download/Build10/SteamWorkshopUploader_10_mac.zip)
+[Mac](https://github.com/nihilocrat/SteamWorkshopUploader/releases/download/Build10/SteamWorkshopUploader_10_mac.zip)
 
 ### Setup
 
