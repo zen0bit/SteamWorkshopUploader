@@ -1,4 +1,4 @@
 {
-	"validateTags" : True,
+	"validateTags" : true,
 	"validTags" : ["AI","Admin","Items","Maps","Props","Recipes","Spawners","Vehicles","Weapons"]
 }
