@@ -1,4 +1,4 @@
 {
-	"validateTags" : false,
-	"validTags" : ["Aero","Skin"]
+	"validateTags" : True,
+	"validTags" : ["AI","Admin","Items","Maps","Props","Recipes","Spawners","Vehicles","Weapons"]
 }
